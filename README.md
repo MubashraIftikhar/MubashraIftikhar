@@ -4,6 +4,26 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=4000&pause=9999999&color=808080&vCenter=true&width=600&lines=About+Me" alt="About Me" />
 </h1>
 
+<div>
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <strong>🎓 Education</strong><br>
+        <sub>Data Science Senior</sub>
+      </td>
+      <td align="center" width="280">
+        <strong>💻 Current Focus</strong><br>
+        <sub>Business Intelligence & Web Development</sub>
+      </td>
+      <td align="center" width="560">
+        <br>
+        <strong> 🔮 In Development</strong><br>
+        <sub><strong>Onix : </strong>An <strong>AI-powered meeting assistant</strong> that automates note-taking, generates meeting summaries, and extracts key action items.</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <table>
   <tr>
     <!-- Text Section -->
