@@ -33,9 +33,7 @@
 
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-     width="350" height="800" 
-     alt="Profile GIF" 
-     style="margin-top: 200px;">
+     width="350" alt="Profile GIF" >
 
 
 
