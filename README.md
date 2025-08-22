@@ -32,7 +32,7 @@ ________________________________________________________________________________
 
 
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" height="350" alt="Profile GIF">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="370" height="450" alt="Profile GIF">
 
 
 
