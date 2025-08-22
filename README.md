@@ -32,12 +32,6 @@
 
 
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-     width="350" alt="Profile GIF" >
-
-
-
-
 
 <h3 align="left">🛠️ Languages & Tools</h3>
 
