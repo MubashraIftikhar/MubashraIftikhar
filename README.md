@@ -1,5 +1,5 @@
 <p align="center"><a href="https://github.com/your-username"><img src="header.png" alt="Hi, I'm Mubashra" /></a></p>
-_________________________________________________________________________________________________________________________________________________
+
 <h1 align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1200&color=808080&vCenter=true&width=600&repeat=true&lines=About+Me;What+I%27m+Up+To;In+a+Nutshell" alt="About Me" />
 </h1>
@@ -32,7 +32,10 @@ ________________________________________________________________________________
 
 
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" height="800" alt="Profile GIF">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+     width="350" height="800" 
+     alt="Profile GIF" 
+     style="margin-top: 100px;">
 
 
 
