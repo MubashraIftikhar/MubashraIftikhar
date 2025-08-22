@@ -32,7 +32,7 @@ ________________________________________________________________________________
 
 
 
-
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="250" alt="Profile GIF">
 
 
 
@@ -57,9 +57,6 @@ ________________________________________________________________________________
 
 
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Profile GIF">
-
-
 | <a href="https://github.com/MubashraIftikhar"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MubashraIftikhar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mubashra's GitHub stats" /></a> | <a href="https://github.com/MubashraIftikhar"><img align="center" src="https://streak-stats.demolab.com?user=MubashraIftikhar&locale=en&mode=daily&theme=buefy&hide_border=false&border_radius=5&order=3&text=FF69B4" alt="Mubashra's GitHub stats" /></a> |
 | ------------- | ------------- |
 
@@ -71,4 +68,3 @@ ________________________________________________________________________________
   <a href="mailto:i.mubashraiftikhar@gmail.com" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="40" /> </a>
 </p>
-
