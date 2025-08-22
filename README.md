@@ -1,7 +1,7 @@
 <p align="center"><a href="https://github.com/your-username"><img src="header.png" alt="Hi, I'm Mubashra" /></a></p>
 
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=9999999&color=000000&vCenter=true&width=600&lines=About+Me" alt="About Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=4000&pause=9999999&color=808080&vCenter=true&width=600&lines=About+Me" alt="About Me" />
 </h1>
 
 
