@@ -33,7 +33,9 @@
 
 
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3500&pause=1200&color=808080&vCenter=true&width=600&repeat=true&lines=<+Tech+Stack+/+>;Technologies+I+Work+With" alt="About Me" />
+</h1>
 
 | Programming| Web Development | Databases | AI / ML | Tools |
 |:---:|:---:|:---:|:---:|:---:|
