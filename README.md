@@ -65,3 +65,7 @@
   <a href="mailto:i.mubashraiftikhar@gmail.com" target="blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="gmail" height="30" width="40" /> </a>
 </p>
+
+
+### 👥 Profile Visitors
+![Profile Views](https://komarev.com/ghpvc/?username=MubashraIftikhar&label=Profile%20Views&color=ff5779&style=for-the-badge)
