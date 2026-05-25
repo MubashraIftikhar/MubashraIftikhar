@@ -67,5 +67,3 @@
 </p>
 
 
-### 👥 Profile Visitors
-![Profile Views](https://komarev.com/ghpvc/?username=MubashraIftikhar&label=Profile%20Views&color=ff5779&style=for-the-badge)
