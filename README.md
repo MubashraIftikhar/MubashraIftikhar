@@ -15,7 +15,7 @@
       </td>
       <td align="center" width="280">
         <strong>💻 Current Focus</strong><br>
-        <sub>Business Intelligence & Web Development</sub>
+        <sub>DevOps & Cloud</sub>
       </td>
       <td align="center" width="560">
         <br>
