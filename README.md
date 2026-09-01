@@ -30,8 +30,6 @@ CI/CD pipeline for a microservices app, deployed on K3s (AWS EC2) with GitHub Ac
 
 ---
 
-<p align="center"><i>Learning in public — always open to feedback.</i></p>
-
 | <a href="https://github.com/MubashraIftikhar"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MubashraIftikhar&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Mubashra's GitHub stats" /></a> | <a href="https://github.com/MubashraIftikhar"><img align="center" src="https://streak-stats.demolab.com?user=MubashraIftikhar&locale=en&mode=daily&theme=buefy&hide_border=false&border_radius=5&order=3&text=FF69B4" alt="Mubashra's GitHub stats" /></a> |
 | ------------- | ------------- |
 
