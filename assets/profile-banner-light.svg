@@ -1,0 +1,290 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 740 650" width="100%" height="100%" font-family="'Fira Code','Consolas',monospace" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTplZmM4MmJiYy00OWJmLTRiZmMtODRiYi02MjlkNDI1NzhjYzgAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaDX1N/Tc36BObxCqeXVsY9kAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpmZmRhNWU5ZS05NzM4LTQwZjMtYTM2My1mZDBmZDQ3NmM1M2JscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoJNVFzaCZUEiT3vSLvEQysQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggojGUDnXB8neTtspDoQCc5u97oUiqvUn2B9Tg/P6AX2KkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaCLyDqEAVXoPVgXEH54riskAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCBY3bhNy2NNeAhaI77X/TIyf0VDL93DBw5jDqMua/s8s2RuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBjHZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmVmYzgyYmJjLTQ5YmYtNGJmYy04NGJiLTYyOWQ0MjU3OGNjOC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjFmMGY1ZjJkLTkzYzMtNGVkOC1hYTgxLTk1MGFkNTNhMjY2N3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCiMZQOdcHyd5O2ykOhAJzm73uhSKq9SfYH1OD8/oBfYqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggotHaSZQcoeVxbScSh/2VcPzzYBn6ZP9uziVkcbiBodKiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggCnRk14NW1zjvoYojsrr0xz8q6BsQj1ZrI0S+JVYi7TJ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQFr4G3/ji4DWLMVDrxz5rMBD+wPD3ct4pns8n7hjLI1hE6/Qvb1y7cE4H203bThcKTU+iDTIYkYe91r9T0uKeKI=</c2pa:manifest></metadata>
+  <defs>
+    <style>
+      .font-sans { font-family: "SF Pro Display","-apple-system","BlinkMacSystemFont","Segoe UI",Roboto,"Helvetica Neue",sans-serif; }
+      .font-mono { font-family: "SF Mono","Fira Code","Cascadia Code",Menlo,Monaco,Consolas,monospace; }
+      @keyframes cursorBlink { 0%,49%{opacity:1;} 50%,100%{opacity:0;} }
+      .cursor-blink { animation: cursorBlink 0.8s infinite; }
+      .skill-pill { transition: transform 0.3s cubic-bezier(0.2,0.8,0.2,1), filter 0.3s ease; transform-box: fill-box; transform-origin: center; cursor: pointer; }
+      .skill-pill:hover { transform: scale(1.08); filter: drop-shadow(0 0 10px var(--hover-glow, rgba(46,163,242,0.5))); }
+      .social-icon { transition: transform 0.3s cubic-bezier(0.2,0.8,0.2,1), filter 0.3s ease, opacity 0.3s ease; transform-box: fill-box; transform-origin: center; cursor: pointer; opacity: 0.75; }
+      .social-icon:hover { transform: scale(1.2); filter: drop-shadow(0 0 8px rgba(46,163,242,0.8)); opacity: 1; }
+    </style>
+
+    <radialGradient id="glowBlue" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#2EA3F2" stop-opacity="0.16" />
+      <stop offset="100%" stop-color="#2EA3F2" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="glowSky" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0" />
+    </radialGradient>
+
+    <filter id="noise">
+      <feTurbulence type="fractalNoise" baseFrequency="0.75" numOctaves="3" stitchTiles="stitch" />
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 0.04 0" />
+    </filter>
+
+    <linearGradient id="scanline" x1="0" y1="0" x2="0" y2="100%">
+      <stop offset="0%" stop-color="#2EA3F2" stop-opacity="0" />
+      <stop offset="50%" stop-color="#2EA3F2" stop-opacity="0.10" />
+      <stop offset="100%" stop-color="#2EA3F2" stop-opacity="0" />
+    </linearGradient>
+
+    <linearGradient id="borderShimmer" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(15,23,42,0.06)" />
+      <stop offset="45%" stop-color="rgba(15,23,42,0.06)" />
+      <stop offset="50%" stop-color="#2EA3F2" />
+      <stop offset="55%" stop-color="#38BDF8" />
+      <stop offset="60%" stop-color="rgba(15,23,42,0.06)" />
+      <stop offset="100%" stop-color="rgba(15,23,42,0.06)" />
+      <animate attributeName="x1" values="-100%; 100%" dur="8s" repeatCount="indefinite" />
+      <animate attributeName="x2" values="0%; 200%" dur="8s" repeatCount="indefinite" />
+    </linearGradient>
+
+    <linearGradient id="glassSheen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="rgba(15,23,42,0.02)" />
+      <stop offset="100%" stop-color="rgba(15,23,42,0)" />
+    </linearGradient>
+
+    <linearGradient id="accentGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2EA3F2" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+
+    <linearGradient id="cursorGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#2EA3F2" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+
+    <clipPath id="clipCloud">
+      <rect x="102" y="183" width="0" height="24">
+        <animate attributeName="width" calcMode="discrete" dur="11.690s" repeatCount="indefinite"
+          keyTimes="0.0;0.0077;0.0154;0.0231;0.0308;0.03849;0.04619;0.05389;0.06159;0.06929;0.07699;0.08469;0.09239;0.10009;0.10778;0.11548;0.12318;0.13088;0.13858;0.25834;0.26262;0.26689;0.27117;0.27545;0.27973;0.284;0.28828;0.29256;0.29683;0.30111;0.30539;0.30967;0.31394;0.31822;0.3225;0.32678;0.33105;1.0"
+          values="0;10.8;21.6;32.4;43.2;54.0;64.8;75.6;86.4;97.2;108.0;118.8;129.6;140.4;151.2;162.0;172.8;183.6;194.4;183.6;172.8;162.0;151.2;140.4;129.6;118.8;108.0;97.2;86.4;75.6;64.8;54.0;43.2;32.4;21.6;10.8;0.0;0.0" />
+      </rect>
+    </clipPath>
+    <clipPath id="clipDevops">
+      <rect x="102" y="183" width="0" height="24">
+        <animate attributeName="width" calcMode="discrete" dur="11.690s" repeatCount="indefinite"
+          keyTimes="0.0;0.36527;0.37297;0.38067;0.38837;0.39607;0.40376;0.41146;0.41916;0.42686;0.43456;0.44226;0.44996;0.45766;0.46536;0.47305;0.48075;0.60051;0.60479;0.60907;0.61334;0.61762;0.6219;0.62618;0.63045;0.63473;0.63901;0.64328;0.64756;0.65184;0.65612;0.66039;1.0"
+          values="0;0;10.8;21.6;32.4;43.2;54.0;64.8;75.6;86.4;97.2;108.0;118.8;129.6;140.4;151.2;162.0;151.2;140.4;129.6;118.8;108.0;97.2;86.4;75.6;64.8;54.0;43.2;32.4;21.6;10.8;0.0;0.0" />
+      </rect>
+    </clipPath>
+    <clipPath id="clipAI">
+      <rect x="102" y="183" width="0" height="24">
+        <animate attributeName="width" calcMode="discrete" dur="11.690s" repeatCount="indefinite"
+          keyTimes="0.0;0.69461;0.70231;0.71001;0.71771;0.72541;0.73311;0.7408;0.7485;0.7562;0.7639;0.7716;0.7793;0.787;0.7947;0.91446;0.91873;0.92301;0.92729;0.93157;0.93584;0.94012;0.9444;0.94867;0.95295;0.95723;0.96151;0.96578;1.0"
+          values="0;0;10.8;21.6;32.4;43.2;54.0;64.8;75.6;86.4;97.2;108.0;118.8;129.6;140.4;129.6;118.8;108.0;97.2;86.4;75.6;64.8;54.0;43.2;32.4;21.6;10.8;0.0;0.0" />
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- Backdrop -->
+  <rect width="740" height="650" fill="#F1F5F9" rx="24" />
+  <circle cx="120" cy="120" r="220" fill="url(#glowBlue)" />
+  <circle cx="650" cy="520" r="220" fill="url(#glowSky)" />
+  <rect width="740" height="650" filter="url(#noise)" opacity="0.5" pointer-events="none" rx="24" />
+
+  <!-- MAIN TERMINAL PANEL -->
+  <g>
+    <animate attributeName="opacity" from="0" to="1" dur="0.6s" fill="freeze" />
+
+    <rect x="20" y="40" width="700" height="590" rx="16" fill="#FFFFFF" fill-opacity="0.85" stroke="url(#borderShimmer)" stroke-width="1.5" />
+    <rect x="20" y="40" width="700" height="590" rx="16" fill="url(#glassSheen)" pointer-events="none" />
+
+    <!-- Title bar -->
+    <circle cx="45" cy="58" r="6" fill="#EF4444" />
+    <circle cx="65" cy="58" r="6" fill="#F59E0B" />
+    <circle cx="85" cy="58" r="6" fill="#10B981" />
+    <text x="370" y="62" fill="#64748B" font-size="12" font-weight="500" text-anchor="middle" class="font-mono">mubashra@terminal:~</text>
+    <line x1="20" y1="75" x2="720" y2="75" stroke="rgba(15,23,42,0.08)" stroke-width="1" />
+
+    <rect x="21" y="76" width="698" height="548" fill="url(#scanline)" pointer-events="none" rx="8">
+      <animate attributeName="y" values="76; 540; 76" dur="6s" repeatCount="indefinite" />
+    </rect>
+
+    <!-- Greeting -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.5s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.4s" begin="0.5s" fill="freeze" />
+      <text x="70" y="115" fill="#64748B" font-size="15" class="font-mono" xml:space="preserve">const greeting = <tspan fill="#2EA3F2">"Hi 👋"</tspan>;</text>
+    </g>
+
+    <!-- Name -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.9s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.4s" begin="0.9s" fill="freeze" />
+      <text x="70" y="155" fill="#0F172A" font-size="32" font-weight="800" class="font-sans" xml:space="preserve">I'm <tspan fill="url(#accentGradient)">Mubashra Iftikhar</tspan></text>
+    </g>
+
+    <!-- Cycling role -->
+    <g>
+      <text x="70" y="200" fill="#64748B" font-size="18" class="font-mono">$&gt; </text>
+
+      <g class="font-mono" font-size="18" font-weight="bold">
+        <text x="102" y="200" fill="#2EA3F2" clip-path="url(#clipCloud)">Cloud Practitioner</text>
+        <text x="102" y="200" fill="#38BDF8" clip-path="url(#clipDevops)">DevOps Engineer</text>
+        <text x="102" y="200" fill="#0EA5E9" clip-path="url(#clipAI)">AI Enthusiast</text>
+      </g>
+
+      <g>
+        <animateTransform attributeName="transform" type="translate" calcMode="discrete" dur="11.690s" repeatCount="indefinite"
+          keyTimes="0.0;0.0077;0.0154;0.0231;0.0308;0.03849;0.04619;0.05389;0.06159;0.06929;0.07699;0.08469;0.09239;0.10009;0.10778;0.11548;0.12318;0.13088;0.13858;0.25834;0.26262;0.26689;0.27117;0.27545;0.27973;0.284;0.28828;0.29256;0.29683;0.30111;0.30539;0.30967;0.31394;0.31822;0.3225;0.32678;0.33105;0.36527;0.37297;0.38067;0.38837;0.39607;0.40376;0.41146;0.41916;0.42686;0.43456;0.44226;0.44996;0.45766;0.46536;0.47305;0.48075;0.60051;0.60479;0.60907;0.61334;0.61762;0.6219;0.62618;0.63045;0.63473;0.63901;0.64328;0.64756;0.65184;0.65612;0.66039;0.69461;0.70231;0.71001;0.71771;0.72541;0.73311;0.7408;0.7485;0.7562;0.7639;0.7716;0.7793;0.787;0.7947;0.91446;0.91873;0.92301;0.92729;0.93157;0.93584;0.94012;0.9444;0.94867;0.95295;0.95723;0.96151;0.96578;1.0"
+          values="0,0;10.8,0;21.6,0;32.4,0;43.2,0;54.0,0;64.8,0;75.6,0;86.4,0;97.2,0;108.0,0;118.8,0;129.6,0;140.4,0;151.2,0;162.0,0;172.8,0;183.6,0;194.4,0;183.6,0;172.8,0;162.0,0;151.2,0;140.4,0;129.6,0;118.8,0;108.0,0;97.2,0;86.4,0;75.6,0;64.8,0;54.0,0;43.2,0;32.4,0;21.6,0;10.8,0;0.0,0;0,0;10.8,0;21.6,0;32.4,0;43.2,0;54.0,0;64.8,0;75.6,0;86.4,0;97.2,0;108.0,0;118.8,0;129.6,0;140.4,0;151.2,0;162.0,0;151.2,0;140.4,0;129.6,0;118.8,0;108.0,0;97.2,0;86.4,0;75.6,0;64.8,0;54.0,0;43.2,0;32.4,0;21.6,0;10.8,0;0.0,0;0,0;10.8,0;21.6,0;32.4,0;43.2,0;54.0,0;64.8,0;75.6,0;86.4,0;97.2,0;108.0,0;118.8,0;129.6,0;140.4,0;129.6,0;118.8,0;108.0,0;97.2,0;86.4,0;75.6,0;64.8,0;54.0,0;43.2,0;32.4,0;21.6,0;10.8,0;0.0,0;0.0,0" />
+        <rect x="102" y="183" width="8" height="20" fill="url(#cursorGradient)" class="cursor-blink" />
+      </g>
+    </g>
+
+    <line x1="40" y1="225" x2="700" y2="225" stroke="rgba(15,23,42,0.06)" stroke-width="1" />
+
+    <!-- Education -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.5s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0,8" to="0,0" dur="0.4s" begin="2.5s" fill="freeze" />
+      <svg viewBox="0 0 24 24" x="70" y="247" width="16" height="16">
+        <path stroke="#64748B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" d="M22 10v6M2 10l10-5 10 5-10 5z M6 12v5c0 2 3 3 6 3s6-1 6-3v-5"/>
+      </svg>
+      <text x="98" y="260" fill="#64748B" font-size="14" class="font-sans">Education: <tspan fill="#0F172A" font-weight="500">B.S. in Data Science</tspan></text>
+    </g>
+
+    <!-- Focus -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.65s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0,8" to="0,0" dur="0.4s" begin="2.65s" fill="freeze" />
+      <svg viewBox="0 0 24 24" x="70" y="277" width="16" height="16">
+        <path stroke="#64748B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" d="M17.5 19a4.5 4.5 0 0 0 0-9 6 6 0 0 0-11.6 1.5A4 4 0 0 0 6 19h11.5z"/>
+      </svg>
+      <text x="98" y="290" fill="#64748B" font-size="14" class="font-sans">Focus: <tspan fill="#0F172A" font-weight="500">DevOps, Cloud &amp; Infrastructure Automation</tspan></text>
+    </g>
+
+    <!-- Interests -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.8s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0,8" to="0,0" dur="0.4s" begin="2.8s" fill="freeze" />
+      <svg viewBox="0 0 24 24" x="70" y="307" width="16" height="16">
+        <path stroke="#64748B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" d="M4 6c0-1.1 3.58-2 8-2s8 .9 8 2-3.58 2-8 2-8-.9-8-2zm0 0v12c0 1.1 3.58 2 8 2s8-.9 8-2V6M4 12c0 1.1 3.58 2 8 2s8-.9 8-2"/>
+      </svg>
+      <text x="98" y="320" fill="#64748B" font-size="14" class="font-sans">Interests: <tspan fill="#0F172A" font-weight="500">DevOps, Cloud &amp; Data Engineering</tspan></text>
+    </g>
+
+    <!-- Email -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="2.95s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0,8" to="0,0" dur="0.4s" begin="2.95s" fill="freeze" />
+      <svg viewBox="0 0 24 24" x="70" y="337" width="16" height="16">
+        <path stroke="#64748B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2zm0 4l8 5 8-5"/>
+      </svg>
+      <text x="98" y="350" fill="#64748B" font-size="14" class="font-sans">Email: <tspan fill="#38BDF8" font-weight="500" style="text-decoration: underline; cursor: pointer;">i.mubashraiftikhar@gmail.com</tspan></text>
+    </g>
+
+    <!-- Skills title -->
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="3.35s" fill="freeze" />
+      <text x="70" y="425" fill="#0F172A" font-size="14" font-weight="700" class="font-sans">Skills &amp; Technologies</text>
+    </g>
+
+    <!-- Row 1 -->
+    <g class="skill-pill" style="--hover-glow: rgba(46,163,242,0.4);" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.4s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.3s" begin="3.4s" fill="freeze" />
+      <rect x="70" y="442" width="80" height="28" rx="8" fill="rgba(46,163,242,0.07)" stroke="rgba(46,163,242,0.35)" stroke-width="1" />
+      <text x="110" y="460" fill="#2EA3F2" font-size="12" font-weight="600" text-anchor="middle" class="font-sans">Linux</text>
+    </g>
+    <g class="skill-pill" style="--hover-glow: rgba(56,189,248,0.4);" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.48s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.3s" begin="3.48s" fill="freeze" />
+      <rect x="162" y="442" width="60" height="28" rx="8" fill="rgba(56,189,248,0.07)" stroke="rgba(56,189,248,0.35)" stroke-width="1" />
+      <text x="192" y="460" fill="#38BDF8" font-size="12" font-weight="600" text-anchor="middle" class="font-sans">AWS</text>
+    </g>
+    <g class="skill-pill" style="--hover-glow: rgba(14,165,233,0.4);" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.56s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.3s" begin="3.56s" fill="freeze" />
+      <rect x="234" y="442" width="90" height="28" rx="8" fill="rgba(14,165,233,0.07)" stroke="rgba(14,165,233,0.35)" stroke-width="1" />
+      <text x="279" y="460" fill="#0EA5E9" font-size="12" font-weight="600" text-anchor="middle" class="font-sans">Docker</text>
+    </g>
+    <g class="skill-pill" style="--hover-glow: rgba(46,163,242,0.4);" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.64s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.3s" begin="3.64s" fill="freeze" />
+      <rect x="336" y="442" width="130" height="28" rx="8" fill="rgba(46,163,242,0.07)" stroke="rgba(46,163,242,0.35)" stroke-width="1" />
+      <text x="401" y="460" fill="#2EA3F2" font-size="12" font-weight="600" text-anchor="middle" class="font-sans">Kubernetes</text>
+    </g>
+    <g class="skill-pill" style="--hover-glow: rgba(56,189,248,0.4);" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.72s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.3s" begin="3.72s" fill="freeze" />
+      <rect x="478" y="442" width="120" height="28" rx="8" fill="rgba(56,189,248,0.07)" stroke="rgba(56,189,248,0.35)" stroke-width="1" />
+      <text x="538" y="460" fill="#38BDF8" font-size="12" font-weight="600" text-anchor="middle" class="font-sans">Terraform</text>
+    </g>
+
+    <!-- Row 2 -->
+    <g class="skill-pill" style="--hover-glow: rgba(14,165,233,0.4);" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.8s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.3s" begin="3.8s" fill="freeze" />
+      <rect x="70" y="482" width="170" height="28" rx="8" fill="rgba(14,165,233,0.07)" stroke="rgba(14,165,233,0.35)" stroke-width="1" />
+      <text x="155" y="500" fill="#0EA5E9" font-size="12" font-weight="600" text-anchor="middle" class="font-sans">GitHub Actions</text>
+    </g>
+    <g class="skill-pill" style="--hover-glow: rgba(46,163,242,0.4);" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.88s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.3s" begin="3.88s" fill="freeze" />
+      <rect x="252" y="482" width="100" height="28" rx="8" fill="rgba(46,163,242,0.07)" stroke="rgba(46,163,242,0.35)" stroke-width="1" />
+      <text x="302" y="500" fill="#2EA3F2" font-size="12" font-weight="600" text-anchor="middle" class="font-sans">Jenkins</text>
+    </g>
+    <g class="skill-pill" style="--hover-glow: rgba(56,189,248,0.4);" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.96s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.3s" begin="3.96s" fill="freeze" />
+      <rect x="364" y="482" width="130" height="28" rx="8" fill="rgba(56,189,248,0.07)" stroke="rgba(56,189,248,0.35)" stroke-width="1" />
+      <text x="429" y="500" fill="#38BDF8" font-size="12" font-weight="600" text-anchor="middle" class="font-sans">PostgreSQL</text>
+    </g>
+    <g class="skill-pill" style="--hover-glow: rgba(14,165,233,0.4);" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="4.04s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.3s" begin="4.04s" fill="freeze" />
+      <rect x="506" y="482" width="100" height="28" rx="8" fill="rgba(14,165,233,0.07)" stroke="rgba(14,165,233,0.35)" stroke-width="1" />
+      <text x="556" y="500" fill="#0EA5E9" font-size="12" font-weight="600" text-anchor="middle" class="font-sans">MongoDB</text>
+    </g>
+    <g class="skill-pill" style="--hover-glow: rgba(46,163,242,0.4);" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="4.12s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.3s" begin="4.12s" fill="freeze" />
+      <rect x="618" y="482" width="80" height="28" rx="8" fill="rgba(46,163,242,0.07)" stroke="rgba(46,163,242,0.35)" stroke-width="1" />
+      <text x="658" y="500" fill="#2EA3F2" font-size="12" font-weight="600" text-anchor="middle" class="font-sans">Redis</text>
+    </g>
+
+    <!-- Row 3 -->
+    <g class="skill-pill" style="--hover-glow: rgba(56,189,248,0.4);" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="4.2s" fill="freeze" />
+      <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.3s" begin="4.2s" fill="freeze" />
+      <rect x="70" y="522" width="90" height="28" rx="8" fill="rgba(56,189,248,0.07)" stroke="rgba(56,189,248,0.35)" stroke-width="1" />
+      <text x="115" y="540" fill="#38BDF8" font-size="12" font-weight="600" text-anchor="middle" class="font-sans">Firestore</text>
+    </g>
+
+    <!-- Social links -->
+    <a href="https://github.com/MubashraIftikhar" target="_blank">
+      <g class="social-icon" opacity="0">
+        <animate attributeName="opacity" from="0" to="0.75" dur="0.4s" begin="4.4s" fill="freeze" />
+        <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.4s" begin="4.4s" fill="freeze" />
+        <svg viewBox="0 0 24 24" x="70" y="570" width="20" height="20">
+          <path stroke="#64748B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"/>
+        </svg>
+      </g>
+    </a>
+
+    <a href="https://www.linkedin.com/in/mubashra-iftikhar/" target="_blank">
+      <g class="social-icon" opacity="0">
+        <animate attributeName="opacity" from="0" to="0.75" dur="0.4s" begin="4.5s" fill="freeze" />
+        <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.4s" begin="4.5s" fill="freeze" />
+        <svg viewBox="0 0 24 24" x="110" y="570" width="20" height="20">
+          <path stroke="#64748B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6zM2 9h4v12H2zM4 2a2 2 0 1 0 0 4 2 2 0 0 0 0-4z"/>
+        </svg>
+      </g>
+    </a>
+
+    <a href="mailto:i.mubashraiftikhar@gmail.com">
+      <g class="social-icon" opacity="0">
+        <animate attributeName="opacity" from="0" to="0.75" dur="0.4s" begin="4.6s" fill="freeze" />
+        <animateTransform attributeName="transform" type="translate" from="0,10" to="0,0" dur="0.4s" begin="4.6s" fill="freeze" />
+        <svg viewBox="0 0 24 24" x="150" y="570" width="20" height="20">
+          <path stroke="#64748B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2zm0 4l8 5 8-5"/>
+        </svg>
+      </g>
+    </a>
+  </g>
+</svg>
