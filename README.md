@@ -9,8 +9,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubashraIftikhar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=2EA3F2&text_color=c9d1d9" alt="Top Languages" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=MubashraIftikhar&theme=dark&background=0d1117&stroke=2EA3F2&ring=2EA3F2&fire=2EA3F2&currStreakNum=2EA3F2&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MubashraIftikhar&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=2EA3F2&text_color=c9d1d9">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MubashraIftikhar&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2EA3F2&text_color=24292e">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MubashraIftikhar&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2EA3F2&text_color=24292e" alt="Top Languages" width="48%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MubashraIftikhar&background=0d1117&stroke=2EA3F2&ring=2EA3F2&fire=2EA3F2&currStreakNum=2EA3F2&currStreakLabel=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=MubashraIftikhar&background=ffffff&border=e4e2e2&stroke=e4e2e2&ring=2EA3F2&fire=2EA3F2&currStreakNum=24292e&currStreakLabel=586069&sideNums=24292e&sideLabels=586069&dates=848d97">
+    <img src="https://streak-stats.demolab.com?user=MubashraIftikhar&background=ffffff&border=e4e2e2&stroke=e4e2e2&ring=2EA3F2&fire=2EA3F2&currStreakNum=24292e&currStreakLabel=586069&sideNums=24292e&sideLabels=586069&dates=848d97" alt="GitHub Streak" width="48%" />
+  </picture>
 </p>
 
 ### 📬 Let's Connect
