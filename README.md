@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Mubashra Iftikhar</h1>
 
 <!-- Dynamic Dark/Light Banner -->
 <picture>
